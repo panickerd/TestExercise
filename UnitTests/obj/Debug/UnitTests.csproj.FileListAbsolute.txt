@@ -1,0 +1,15 @@
+D:\Users\axjwh\Desktop\MineSweeperDotnet\MineSweeper\UnitTests\bin\Debug\UnitTests.dll
+D:\Users\axjwh\Desktop\MineSweeperDotnet\MineSweeper\UnitTests\bin\Debug\UnitTests.pdb
+D:\Users\axjwh\Desktop\MineSweeperDotnet\MineSweeper\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Users\axjwh\Desktop\MineSweeperDotnet\MineSweeper\UnitTests\bin\Debug\MineSweeperGenerator.dll
+D:\Users\axjwh\Desktop\MineSweeperDotnet\MineSweeper\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\Users\axjwh\Desktop\MineSweeperDotnet\MineSweeper\UnitTests\obj\Debug\UnitTests.dll
+D:\Users\axjwh\Desktop\MineSweeperDotnet\MineSweeper\UnitTests\obj\Debug\UnitTests.pdb
+D:\Users\apuvm\Desktop\MineSweeperDotnet\UnitTests\bin\Debug\UnitTests.dll
+D:\Users\apuvm\Desktop\MineSweeperDotnet\UnitTests\bin\Debug\UnitTests.pdb
+D:\Users\apuvm\Desktop\MineSweeperDotnet\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Users\apuvm\Desktop\MineSweeperDotnet\UnitTests\bin\Debug\MineSweeperGenerator.dll
+D:\Users\apuvm\Desktop\MineSweeperDotnet\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+D:\Users\apuvm\Desktop\MineSweeperDotnet\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+D:\Users\apuvm\Desktop\MineSweeperDotnet\UnitTests\obj\Debug\UnitTests.dll
+D:\Users\apuvm\Desktop\MineSweeperDotnet\UnitTests\obj\Debug\UnitTests.pdb
